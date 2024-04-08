@@ -8,3 +8,5 @@ things completed:
 - Fine tuning of program
 - Testing of each sequence, step by step
 - Got Automated process working for TM14 robot
+
+Due to NDA, No photos are uploaded
